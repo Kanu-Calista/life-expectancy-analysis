@@ -97,12 +97,12 @@ Here are some sample outputs from the analysis:
 ![Schooling vs Life Expectancy](img/Life_Expectancy_vs_schooling.png)
 
 ### 🔹 Predicted vs Actual Life Expectancy
-![Predicted vs Actual](img/Predicted_vs_Actual_Life_Expectancy.png)
+![Predicted vs Actual](https://github.com/Kanu-Calista/life-expectancy-analysis/blob/main/img/Predicted%20vs%20Actual%20Life%20Expectancy.png)
 
 ---
 
 ## 📊 Dataset
-**Source:** [Life Expectancy (WHO)](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) by *Kumar Rajarshi*
+**Source:** ['life Expectancy (WHO)' by *KumarRajarshi*](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who?resource=download) 
 **Description:** Includes 22 features (GDP, schooling, alcohol consumption, BMI, etc.) for 193 countries from 2000–2015.
 
 ---
